@@ -1,2 +1,4 @@
-# FASS
+Ce simulateur est un **QCM d'entraînement de 102 questions** destiné à préparer la certification FASS. Il est répartie selon les pondérations du guide officiel : Performance (30 %), Software (28 %), Replication (17 %), Networking (15 %) et Hardware (10 %). il combine des scénarios pédagogiques rédigés pour l'entraînement, des objectifs du guide officiel et des thèmes issus de banques publiques comparées.
+
+**Avertissement :** ce QCM est un support d'entraînement non officiel. Il ne constitue pas un sujet d'examen officiel et ne prétend pas reproduire des questions confidentielles de l'examen. Les commandes, comportements et fonctionnalités peuvent varier selon le modèle et la version de Purity ; en cas de doute, la documentation officielle correspondant à la version déployée prévaut.# FASS
 FlashArray Support Specialist
